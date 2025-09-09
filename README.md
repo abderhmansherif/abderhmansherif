@@ -1,8 +1,7 @@
 Hi, I'm Abderhman 
 
 Computer Science Student  
-Passionate about Backend Development with .NET
-
+C# .NET
 ---
 
 Technologies & Tools  
