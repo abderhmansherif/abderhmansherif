@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Abdulrahman 
 
-<!--
-**abderhmansherif/abderhmansherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student  
+💻 Interested in Backend Development with .NET, C#, SQL, and Cloud  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [X / Twitter](https://twitter.com/your-handle)
