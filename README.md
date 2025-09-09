@@ -20,6 +20,6 @@ Technologies & Tools
 
 ---
  
-- 📧 [Email me](abderhmansherif221@gmail.com)  
+- 📧 [Email me](mailto:abderhmansherif221@gmail.com)  
 
 ---
