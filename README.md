@@ -1,6 +1,5 @@
 Hi, I'm Abderhman 
 
-C# .NET
 ---
 
 Technologies & Tools  
