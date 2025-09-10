@@ -1,6 +1,5 @@
 Hi, I'm Abderhman 
 
-Computer Science Student  
 C# .NET
 ---
 
